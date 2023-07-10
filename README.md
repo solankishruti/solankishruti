@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shruti Solanki</h1>
+<h3 align="center">A Senior Full-stack Developer</h3>
+
+- 🔭 I’m currently working at [Rlogical Techsoft Pvt. Ltd](https://www.rlogical.com/)
+
+- 🌱 I’m a keen learner
+
+- 📫 How to reach me **shruti.solanki@rlogical.com**
 
 <!--
 **solankishruti/solankishruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
